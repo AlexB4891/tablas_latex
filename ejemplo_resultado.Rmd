@@ -1,0 +1,20 @@
+---
+title: "Tablas"
+output: pdf_document
+---
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllrr}
+  \hline
+ & Panel & Tipo de declaración & Ventas totales & Porcentajes de ventas \\ 
+  \hline
+1 & Balanceado & Mensual & 142923.84 & 100.00 \\ 
+  2 & Semi-Blanaceado & Semestral & 4833.86 & 3.01 \\ 
+  3 & Semi-Blanaceado & Mensual & 153986.78 & 96.00 \\ 
+  4 & Semi-Blanaceado & Cambios & 1590.40 & 0.99 \\ 
+  5 & Desbalanceado & Semestral & 5831.95 & 3.54 \\ 
+  6 & Desbalanceado & Mensual & 157253.36 & 95.34 \\ 
+  7 & Desbalanceado & Cambios & 1855.11 & 1.12 \\ 
+   \hline
+\end{tabular}
+\end{table}
