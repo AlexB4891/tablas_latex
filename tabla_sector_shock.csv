@@ -1,0 +1,23 @@
+nueva_seccion,etiqueta,rel_shock_6m_unbalanced,share_sales_unbalanced,max_count_unbalanced,rel_shock_6m_balanced,share_sales_balanced,max_count_balanced
+A,Agricultura,-0.5,9,83685,-1.2,9,10806
+B,Minería,3,1.3,3751,3.5,1.5,1922
+C,Manufactura,-17,17.7,105559,-16.3,19,29342
+D,Energia,6.5,0.4,1581,-1.6,0.4,520
+F,Coonstrucción,-42.6,2.9,42254,-46,2.6,15108
+G1,Comercio esencial,-10.4,18.5,145634,-10.7,18.3,40707
+G2,Comercio no esencial,-22,26.1,189209,-23.7,27.3,73383
+H,Transporte,-23.6,5.2,148576,-22.5,4.3,14815
+I,Comida y hospedaje,-40.2,1.8,50473,-40.2,1.5,13879
+J,Información y telecomunicaciones,-14.4,2.6,17233,-15.1,2.8,6233
+K,Actiidades financieras,-7.6,2.8,4608,-8,3.2,2711
+L,Actividad inmobiliaria,-28.7,1.5,81211,-29.5,1.4,33307
+M,Educación y ciencias,-30.2,4.4,197375,-32.8,3.8,77428
+N,Actividades administrativas,-24.8,1.9,34728,-25.2,1.8,12107
+O,Administración Pública,-27.6,0.1,1269,-25.5,0.1,650
+P,Educación,-35.4,0.6,39191,-30.8,0.4,6334
+Q,Salud,-11,1.9,51826,-7.2,1.6,4473
+R,Artes y entrenimiento,-47.5,0.2,15510,-49.3,0.1,4408
+S,Otros servicios,-21.9,1.2,98462,-20.6,0.9,22048
+T,Actividades domésticas,-39.8,0,2908,-25.1,0,833
+U,Actividades de instituciones extraterritoriales,91.4,0,18,98.6,0,10
+Z,Categoría indefinida,-10.649999999999999,0,418.5,10.7,0,170.75
