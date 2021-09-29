@@ -1,0 +1,44 @@
+---
+title: "Untitled"
+author: "Nombre de autor"
+date: "9/29/2021"
+output: pdf_document
+---
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+  
+  \hline
+  \multicolumn {2}{|c|}{ } & \multicolumn {3}{|c|}{ \textbf{Panel Desbalanceado}} &     \multicolumn {3}{|c|}{ \textbf{Panel Balanceado}}\\
+  \hline
+\textbf{Sector} & \textbf{Nombre Completo del Sector} & \textbf{Impacto} & \textbf{\%Ventas} & \textbf{N} & \textbf{Impacto}  & \textbf{\%Ventas} & \textbf{N} \\
+ \hline
+A & Agricultura & -0.50 & 9.00 & 83685 & -1.20 & 9.00 & 10806 \\ 
+B & Minería & 3.00 & 1.30 & 3751 & 3.50 & 1.50 & 1922 \\ 
+C & Manufactura & -17.00 & 17.70 & 105559 & -16.30 & 19.00 & 29342 \\ 
+D & Energia & 6.50 & 0.40 & 1581 & -1.60 & 0.40 & 520 \\ 
+F & Coonstrucción & -42.60 & 2.90 & 42254 & -46.00 & 2.60 & 15108 \\ 
+G1 & Comercio esencial & -10.40 & 18.50 & 145634 & -10.70 & 18.30 & 40707 \\ 
+G2 & Comercio no esencial & -22.00 & 26.10 & 189209 & -23.70 & 27.30 & 73383 \\ 
+H & Transporte & -23.60 & 5.20 & 148576 & -22.50 & 4.30 & 14815 \\ 
+I & Comida y hospedaje & -40.20 & 1.80 & 50473 & -40.20 & 1.50 & 13879 \\ 
+J & Información y  & -14.40 & 2.60 & 17233 & -15.10 & 2.80 & 6233 \\ 
+ & telecomunicaciones &  &  &  &  &  &  \\ 
+K & Actiidades financieras & -7.60 & 2.80 & 4608.00 & -8 & 3.20 & 2711 \\ 
+L & Actividad inmobiliaria & -28.70 & 1.50 & 81211 & -29.50 & 1.40 & 33307 \\ 
+M & Educación y ciencias & -30.20 & 4.40 & 197375 & -32.80 & 3.80 & 77428 \\ 
+N & Actividades administrativas & -24.80 & 1.90 & 34728 & -25.20 & 1.80 & 12107 \\ 
+O & Administración Pública & -27.60 & 0.10 & 1269 & -25.50 & 0.10 & 650 \\ 
+P & Educación & -35.40 & 0.60 & 39191 & -30.80 & 0.40 & 6334 \\ 
+Q & Salud & -11.00 & 1.90 & 51826 & -7.20 & 1.60 & 4473 \\ 
+R & Artes y entrenimiento & -47.50 & 0.20 & 15510 & -49.30 & 0.10 & 4408 \\ 
+S & Otros servicios & -21.90 & 1.20 & 98462 & -20.60 & 0.90 & 22048 \\ 
+T & Actividades domésticas & -39.80 & 0.00 & 2908 & -25.10 & 0.00 & 833 \\ 
+U & Actividades de instituciones & 91.40 & 0.00 & 18 & 98.60 & 0.00 & 10 \\ 
+ & extraterritoriales &  &  &  &  &  &  \\ 
+Z & Categoría indefinida & -10.65 & 0.00 & 418.5 & 10.70 & 0.00 & 170.75 \\ 
+   \hline
+\end{tabular}
+\end{table}
+

@@ -1,5 +1,5 @@
 library(tidyverse)
-
+getwd()
 "../Cross-Country/Ecuador-project/dofiles/entrega_agosto/tabla_periodicidad_panel.rds" %>% 
   read_rds() %>% 
   rename_with(~ c("Panel","Tipo de declaración","Ventas totales","Valor agregado",
