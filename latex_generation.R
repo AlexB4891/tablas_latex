@@ -1,4 +1,6 @@
-"Ecuador-project/dofiles/entrega_agosto/tabla_periodicidad_panel.rds" %>% 
+library(tidyverse)
+
+"../Cross-Country/Ecuador-project/dofiles/entrega_agosto/tabla_periodicidad_panel.rds" %>% 
   read_rds() %>% 
   rename_with(~ c("Panel","Tipo de declaración","Ventas totales","Valor agregado",
                   "Porcentajes de ventas", "Porcentaje de valor agregado")) %>%
